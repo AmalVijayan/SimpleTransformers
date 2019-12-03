@@ -1,0 +1,2 @@
+# SimpleTransformers
+In the past few years, we have seen tremendous improvements in the ability of machines to deal with Natural Language. We saw algorithms breaking the state-of-the-art one after the other on a variety of language-specific tasks, all thanks to transformers. In this article we will discuss and implement transformers in the simplest way possible using a library called Simple Transformers.
